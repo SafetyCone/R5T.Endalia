@@ -1,0 +1,4 @@
+R5T.Endalia.Construction - A construction console-app for the library R5T.Endalia.
+
+Goals
+
