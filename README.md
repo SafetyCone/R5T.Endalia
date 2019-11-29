@@ -1,0 +1,2 @@
+# R5T.Endalia
+An EndpointIdentity types library.
