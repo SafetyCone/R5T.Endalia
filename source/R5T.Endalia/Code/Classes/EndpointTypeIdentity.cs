@@ -7,6 +7,9 @@ namespace R5T.Endalia
 {
     public class EndpointTypeIdentity : TypedGuid
     {
+        public const EndpointTypeIdentity Null = null;
+
+
         #region Static
 
         public static EndpointTypeIdentity New()
